@@ -1,0 +1,24 @@
+{
+  "name": "api-yt",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000P\u0000I\u0000-\u0000T\u0000e\u0000s\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalles-cg/API-Teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalles-cg/API-Teste/issues"
+  },
+  "homepage": "https://github.com/thalles-cg/API-Teste#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
